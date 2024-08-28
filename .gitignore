@@ -1,0 +1,13 @@
+# dependencies
+/node_modules
+
+# production
+/build
+
+/src/components/json
+/src/components/BackendProfessionalCertificate.js
+/src/components/Coursera.js
+/src/components/FrontendProfessionalCertificate.js
+/src/components/Misc.js
+/src/components/SpecilizationCertificate.js
+/src/components/Udemy.js
